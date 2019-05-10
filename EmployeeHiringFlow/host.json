@@ -1,0 +1,11 @@
+{
+  "extensions": {
+    "http": {
+      "routePrefix": "durable-recruiters"
+    },
+    "durableTask": {
+      "hubName": "DurableRecruitersV2"
+    }
+  },
+  "version": "2.0"
+}
